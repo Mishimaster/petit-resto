@@ -59,3 +59,17 @@
         margin: 0;
         margin-top: 5%;
     }
+    header
+    {
+        height: 250px;
+        
+    }
+    .chemin
+    {
+        clear: both;
+    }
+    .route
+    {
+        text-align: justify;
+    }
+

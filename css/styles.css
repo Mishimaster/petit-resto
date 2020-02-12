@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 body
 {
@@ -14,9 +14,9 @@ body
 }
 .myfirst
 {
-    background-color: goldenrod;
+    background-color: goldenrod;                   
     padding-bottom: 2%;
-    justify-content: center;
+    justify-content: center; 
 }
 nav
 {
@@ -60,7 +60,7 @@ header
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-  }
+}
 .sorcier
 {
     width: 30vw;
@@ -79,6 +79,7 @@ header
 .video
 {
     margin-top: 5%;
+    width: 70%;
 }
 .fouteur
 {
@@ -88,10 +89,6 @@ header
 {
     width: 80%;
     box-shadow: gray 5px 8px 8px;
-}
-.trailer iframe
-{
-    width: 50%;
 }
 .carte
 {
