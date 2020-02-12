@@ -1,0 +1,317 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: rgb(106, 132, 183);
+    background: url("test.png") repeat rgb(106, 132, 183);
+}
+.fouteur
+{
+    background-color: rgb(106, 132, 183);
+}
+.myfirst
+{
+    background-color: goldenrod;
+    padding-bottom: 2%;
+    justify-content: center;
+}
+nav
+{
+background-color:rgb(106,132,183);
+box-shadow:0px 10px 20px 0px#fec107;
+}
+nav a
+{
+margin:0 2em;
+}
+#active
+{
+color:white !important;
+}
+nav a
+{
+    margin-right: 2.500em ;
+}
+.pigeon
+{
+     height: 3em;
+}
+nav a:hover
+{
+    color: black !important;
+    font-weight: bold;
+}
+a.active
+{
+    font-weight: 700;
+}
+.nav-link
+{
+    color: cornsilk !important;
+}
+header 
+{
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("geralt.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.sorcier
+{
+    width: 30vw;
+    color: aliceblue;
+}
+#ouais
+{
+    color: white;
+    font-size: large;
+}
+.pepe
+{
+    font-size:2.7em ;
+    color: white;
+}
+.video
+{
+    margin-top: 5%;
+}
+.fouteur
+{
+    background-color: #fec107 ;
+}
+.map
+{
+    width: 80%;
+    box-shadow: gray 5px 8px 8px;
+}
+.trailer iframe
+{
+    width: 50%;
+}
+.carte
+{
+    width: 80%;
+    box-shadow: gray 5px 8px 8px;
+}
+.mescartes
+{
+    background-color: goldenrod;
+    padding-bottom: 4%;
+}
+.push
+{
+    color: white !important;
+    box-shadow: gray 1px 2px 2px;
+}
+.wlh
+{
+    margin:3%;
+}
+hr
+{
+   width: 80%; 
+  margin-left: 7%;
+}
+.mycart
+{
+    margin-top: 8%;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 5px 5px 5px 5px;
+}
+.vlh
+{
+    margin:3%;
+}
+footer
+{
+    background-color:#6a84b7 !important;
+    border-top: 1px goldenrod solid ;
+}
+.fouteur
+{
+    padding-bottom: 15%;
+    padding-top: 5%;
+}
+h3
+{
+    text-align: center;
+    margin-top: 3%;
+}
+.towns 
+{
+    border-bottom: dotted;
+    width: 50%;
+    margin-left: 25%;
+}
+.lecheum
+{
+    height: 100%;
+}
+.lebg
+{
+    height: 100%;
+}
+h3
+{
+    color: whitesmoke;
+}
+.badge
+{
+    float: right;
+    display: inline-block;
+}
+.resto
+{
+    list-style: none;
+    border-bottom: 1px solid gray;
+}
+.resto
+{
+    margin-top: 5%;
+}
+h5
+{
+    font-weight: bold;
+    font-size: 1.6em !important;
+}
+.cuistot
+{
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+label
+{
+    font-weight: bold;
+}
+form
+{
+    border: 1px solid white;
+    padding: 3%;
+    background-color: rgba(220, 220, 220, 0.6);
+    margin-top: 2%;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: black 2px 5px 5px;
+}
+.myback
+{
+    background: url("gerard.jpg") no-repeat;
+    border: 2px goldenrod solid ;
+    background-size: cover;
+}
+h4
+{
+    font-size: 1.2em;
+}
+.banana
+{
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+.banana
+{
+    background: url("sorcier.jpg") no-repeat;
+    background-size: cover;
+    border: 2px solid goldenrod;
+    border-right: 50px solid goldenrod;
+    border-left: 50px solid goldenrod;
+}
+button
+{
+    color: gold !important;
+    box-shadow: 3px 3px 3px black;
+}
+.novigrad
+{
+    text-align: center;
+    border: 1px solid white;;
+    padding: 1%;
+    width: 70%;
+    border-radius: 20px 20px 20px ;
+    box-shadow: white 2px 2px 2px 2px  ;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-left: 10%;
+}
+.oxenfurt
+{
+    text-align: center;
+    border: 1px solid white;
+  width: 70%;
+    padding: 1%;
+    box-shadow: white 2px 2px 2px 2px  ;
+    border-radius: 20px 20px 20px ;
+    background-color: rgba(255, 255, 255, 0.8)
+}
+.hours 
+{
+    text-align: center;
+     margin-left: 25%;
+    border: solid white 1px ;
+    margin-right: 25%;
+    margin-top: 5%;
+   padding: 1%;
+    box-shadow: white 2px 2px 2px 2px  ;
+    border-radius: 20px 20px 20px;
+    background-color: rgba(255, 255, 255, 0.8)
+}
+.autres
+{
+    color: darkgoldenrod;
+}
+.carousel 
+{
+    height: 40em;
+    overflow: hidden;
+    
+}
+.genius
+{
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+.mycaption
+{
+     margin-bottom: 5%;
+     border: 1px white solid;
+     background-color: rgba(106, 132, 183, 0.6);
+     border-radius: 10px 100px / 120px; ;
+}
+iframe
+{
+    width: 80%;
+    height: 100%;
+}
+footer a
+{
+    text-decoration: none;
+    color: white;
+    margin-top: 2%;
+}
+footer a:hover
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.cuicui
+{
+    height: 5em;
+}
+.mymanege
+{
+    background-color: goldenrod;
+}
+.mylilponey
+{
+    border: 1px solid rgb(106, 132, 183);
+    border-radius: 15px 15px 15px 15px ;
+    box-shadow: 8px 5px 5px rgb(100, 100, 100);
+}
+.tool
+{
+    justify-content: center;
+    margin-top: 1.2em;
+}
