@@ -11,6 +11,7 @@ body
 .fouteur
 {
     background-color: rgb(106, 132, 183);
+    background-repeat: round;
 }
 .myfirst
 {
